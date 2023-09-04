@@ -17,5 +17,5 @@
   2) Worst case: Aradığımız sayının sonda olması
   3) Best case: Aradığımız sayının dizinin en başında olması.
   
-  Dizi sıralandığında 18 sayısı ortadaki eleman olduğundan dolayı Average case kapsamına girer.
+    Dizi sıralandığında 18 sayısı ortadaki eleman olduğundan dolayı Average case kapsamına girer.
 
