@@ -9,5 +9,5 @@
                   0       2               9
                             \
                               3
-  6 Root'dur. Rooot'un solunda 4 bulunur. 4'ün sağında 5 solunda 1 bulunur. 1'in sağında 2 ve 3 bulunur solunda 0.
+  6 Root'dur. Rooot'un solunda 4 bulunur. 4'ün sağında 5 solunda 1 bulunur. 1'in sağında 2 ve 3 bulunur solunda ise 0 bulunur.
   Root'un sağında 7 bulunur. 7 nin sağında 8, 8'in sağında da 9 bulunur.
