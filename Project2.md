@@ -16,4 +16,4 @@
                                       8,11,12,16,21,22    
 # 2)Big-O gösterimini yazınız.
 
-(n/2)+(n/4)+...+1 = O(log n)
+(n/2)+(n/4)+...+1 = O(n*log n)
