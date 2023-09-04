@@ -1,7 +1,7 @@
 ## Proje 1
 ## [22,27,16,2,18,6] -> Insertion Sort
 
-  # Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+  # 1.) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
   1) [22*27,16,2,18,6]
   2) [22,27*16,2,18,6]
   3) [16,22,27*2,18,6]
@@ -9,11 +9,13 @@
   5) [2,16,18,22,27*6]
   6) [2,6,16,18,22,27*]
 
-  Big-O gösterimini yazınız.
+  # 2.) Big-O gösterimini yazınız.
+  n+(n-1)+(n-2)+(n-3)+(n-4)+1= (n(n+1))/2= n^2 Big-O = n^2
 
-  Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-
+  # 3.) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
   1) Average case: Aradığımız sayının ortada olması
   2) Worst case: Aradığımız sayının sonda olması
   3) Best case: Aradığımız sayının dizinin en başında olması.
+  
+  Dizi sıralandığında 18 sayısı ortadaki eleman olduğundan dolayı Average case kapsamına girer.
 
